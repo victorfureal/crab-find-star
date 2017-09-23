@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>icon/ant.png</file>
+        <file>icon/background.jpg</file>
+        <file>icon/point.png</file>
+        <file>icon/galaxy_starfield.png</file>
+        <file>icon/house.png</file>
+    </qresource>
+</RCC>
